@@ -888,3 +888,6 @@
 {"n":888,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the crate at the Underpass. Nobody past the west roof. We start in 2 steps. Direct on the left lane, open."}
 {"n":889,"kind":"place","name":"the Underpass west roof","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"the Underpass west roof. Nia keeps the crate for the start. 3 steps, direct on the left lane, open."}
 {"n":890,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Underpass, west roof. direct left open. 4 steps. The crate stays for the start."}
+{"n":891,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the crate at the Underpass. Nobody past the west roof. We start in 5 steps. Direct on the left lane, open."}
+{"n":892,"kind":"place","name":"the Underpass west roof","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"the Underpass west roof. Ivo keeps the crate for the start. 6 steps, direct on the left lane, open."}
+{"n":893,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Underpass, west roof. direct left open. 7 steps. The crate stays for the start."}
