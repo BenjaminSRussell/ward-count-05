@@ -537,3 +537,6 @@
 {"n":537,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, east roof. direct left open. 6 steps. The hydrant stays for the start."}
 {"n":538,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the hydrant at the Lot. Nobody past the east roof. We start in 7 steps. Direct on the left lane, open."}
 {"n":539,"kind":"place","name":"the Lot east roof","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"the Lot east roof. Bess keeps the hydrant for the start. 8 steps, direct on the left lane, open."}
+{"n":540,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, east roof. direct left open. 2 steps. The hydrant stays for the start."}
+{"n":541,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the hydrant at Stockyard fence. Nobody past the east roof. We start in 3 steps. Direct on the left lane, open."}
+{"n":542,"kind":"place","name":"Stockyard fence east roof","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Stockyard fence east roof. Matt keeps the hydrant for the start. 4 steps, direct on the left lane, open."}
