@@ -48,3 +48,6 @@
 {"n":48,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Stockyard fence, west roof. direct left open. 7 steps. The badge door stays for the start."}
 {"n":49,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the badge door at Mall court. Nobody past the west roof. We start in 8 steps. Direct on the left lane, open."}
 {"n":50,"kind":"place","name":"Mall court west roof","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Mall court west roof. Matt keeps the badge door for the start. 2 steps, direct on the left lane, open."}
+{"n":51,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mall court, west roof. direct left open. 3 steps. The badge door stays for the start."}
+{"n":52,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the badge door at Mall court. Nobody past the west roof. We start in 4 steps. Direct on the left lane, open."}
+{"n":53,"kind":"place","name":"Mall court west roof","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Mall court west roof. Nia keeps the badge door for the start. 5 steps, direct on the left lane, open."}
