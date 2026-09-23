@@ -163,3 +163,6 @@
 {"n":163,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the lamp at Switchyard. Nobody past the north roof. We start in 7 steps. Direct on the left lane, open."}
 {"n":164,"kind":"place","name":"Switchyard north roof","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Switchyard north roof. Ivo keeps the lamp for the start. 8 steps, direct on the left lane, open."}
 {"n":165,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, north roof. direct left open. 2 steps. The lamp stays for the start."}
+{"n":166,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the lamp at Switchyard. Nobody past the north roof. We start in 3 steps. Direct on the left lane, open."}
+{"n":167,"kind":"place","name":"Switchyard north roof","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Switchyard north roof. Bess keeps the lamp for the start. 4 steps, direct on the left lane, open."}
+{"n":168,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, north roof. direct left open. 5 steps. The lamp stays for the start."}
