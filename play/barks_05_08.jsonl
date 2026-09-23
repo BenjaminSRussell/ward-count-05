@@ -857,3 +857,6 @@
 {"n":857,"kind":"place","name":"Switchyard west slip","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Switchyard west slip. Nia keeps the barrel for the start. 5 steps, direct on the left lane, open."}
 {"n":858,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Switchyard, west slip. direct left open. 6 steps. The barrel stays for the start."}
 {"n":859,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the barrel at Switchyard. Nobody past the west slip. We start in 7 steps. Direct on the left lane, open."}
+{"n":860,"kind":"place","name":"Switchyard west slip","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Switchyard west slip. Ivo keeps the barrel for the start. 8 steps, direct on the left lane, open."}
+{"n":861,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, west slip. direct left open. 2 steps. The barrel stays for the start."}
+{"n":862,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the barrel at Switchyard. Nobody past the west slip. We start in 3 steps. Direct on the left lane, open."}
