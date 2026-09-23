@@ -134,3 +134,6 @@
 {"n":134,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Drydock, south stair. direct left open. 4 steps. The badge door stays for the start."}
 {"n":135,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the badge door at Drydock. Nobody past the south stair. We start in 5 steps. Direct on the left lane, open."}
 {"n":136,"kind":"place","name":"Drydock south stair","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Drydock south stair. Ivo keeps the badge door for the start. 6 steps, direct on the left lane, open."}
+{"n":137,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Drydock, south stair. direct left open. 7 steps. The badge door stays for the start."}
+{"n":138,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the badge door at Drydock. Nobody past the south stair. We start in 8 steps. Direct on the left lane, open."}
+{"n":139,"kind":"place","name":"Drydock south stair","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Drydock south stair. Bess keeps the badge door for the start. 2 steps, direct on the left lane, open."}
