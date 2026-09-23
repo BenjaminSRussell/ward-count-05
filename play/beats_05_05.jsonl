@@ -223,3 +223,6 @@
 {"n":223,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the rebar at the Lot. Nobody past the north roof. We start in 4 steps. Direct on the left lane, open."}
 {"n":224,"kind":"place","name":"the Lot north roof","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"the Lot north roof. Ivo keeps the rebar for the start. 5 steps, direct on the left lane, open."}
 {"n":225,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, north roof. direct left open. 6 steps. The rebar stays for the start."}
+{"n":226,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the rebar at the Lot. Nobody past the north roof. We start in 7 steps. Direct on the left lane, open."}
+{"n":227,"kind":"place","name":"the Lot north roof","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"the Lot north roof. Bess keeps the rebar for the start. 8 steps, direct on the left lane, open."}
+{"n":228,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, north roof. direct left open. 2 steps. The rebar stays for the start."}
