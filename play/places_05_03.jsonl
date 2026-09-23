@@ -209,3 +209,6 @@
 {"n":209,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, east roof. direct left open. 6 steps. The rebar stays for the start."}
 {"n":210,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the rebar at the Lot. Nobody past the east roof. We start in 7 steps. Direct on the left lane, open."}
 {"n":211,"kind":"place","name":"the Lot east roof","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"the Lot east roof. Bess keeps the rebar for the start. 8 steps, direct on the left lane, open."}
+{"n":212,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, east roof. direct left open. 2 steps. The rebar stays for the start."}
+{"n":213,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the rebar at Stockyard fence. Nobody past the east roof. We start in 3 steps. Direct on the left lane, open."}
+{"n":214,"kind":"place","name":"Stockyard fence east roof","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Stockyard fence east roof. Matt keeps the rebar for the start. 4 steps, direct on the left lane, open."}
