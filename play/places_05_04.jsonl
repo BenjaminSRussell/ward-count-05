@@ -850,3 +850,6 @@
 {"n":850,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at High line, north roof. direct left open. 2 steps. The barrel stays for the start."}
 {"n":851,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the barrel at High line. Nobody past the north roof. We start in 3 steps. Direct on the left lane, open."}
 {"n":852,"kind":"place","name":"High line north roof","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"High line north roof. Ivo keeps the barrel for the start. 4 steps, direct on the left lane, open."}
+{"n":853,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, north roof. direct left open. 5 steps. The barrel stays for the start."}
+{"n":854,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the barrel at High line. Nobody past the north roof. We start in 6 steps. Direct on the left lane, open."}
+{"n":855,"kind":"place","name":"High line north roof","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"High line north roof. Bess keeps the barrel for the start. 7 steps, direct on the left lane, open."}
