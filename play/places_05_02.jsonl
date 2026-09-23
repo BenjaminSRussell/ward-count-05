@@ -945,3 +945,6 @@
 {"n":945,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at South stair, east roof. direct left open. 8 steps. The crate stays for the start."}
 {"n":946,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the crate at South stair. Nobody past the east roof. We start in 2 steps. Direct on the left lane, open."}
 {"n":947,"kind":"place","name":"South stair east roof","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"South stair east roof. Bess keeps the crate for the start. 3 steps, direct on the left lane, open."}
+{"n":948,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at South stair, east roof. direct left open. 4 steps. The crate stays for the start."}
+{"n":949,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the crate at the pier. Nobody past the east roof. We start in 5 steps. Direct on the left lane, open."}
+{"n":950,"kind":"place","name":"the pier east roof","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"the pier east roof. Matt keeps the crate for the start. 6 steps, direct on the left lane, open."}
