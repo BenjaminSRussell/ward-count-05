@@ -14,3 +14,6 @@
 {"n":14,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Drydock, north roof. direct left open. 4 steps. The drum stays for the start."}
 {"n":15,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the drum at Drydock. Nobody past the north roof. We start in 5 steps. Direct on the left lane, open."}
 {"n":16,"kind":"place","name":"Drydock north roof","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Drydock north roof. Ivo keeps the drum for the start. 6 steps, direct on the left lane, open."}
+{"n":17,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Drydock, north roof. direct left open. 7 steps. The drum stays for the start."}
+{"n":18,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the drum at Drydock. Nobody past the north roof. We start in 8 steps. Direct on the left lane, open."}
+{"n":19,"kind":"place","name":"Drydock north roof","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Drydock north roof. Bess keeps the drum for the start. 2 steps, direct on the left lane, open."}
