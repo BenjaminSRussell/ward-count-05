@@ -845,3 +845,6 @@
 {"n":845,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, east roof. direct left open. 5 steps. The awning stays for the start."}
 {"n":846,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the awning at High line. Nobody past the east roof. We start in 6 steps. Direct on the left lane, open."}
 {"n":847,"kind":"place","name":"High line east roof","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"High line east roof. Bess keeps the awning for the start. 7 steps, direct on the left lane, open."}
+{"n":848,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, east roof. direct left open. 8 steps. The awning stays for the start."}
+{"n":849,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the drum at Ward gate. Nobody past the east roof. We start in 2 steps. Direct on the left lane, open."}
+{"n":850,"kind":"place","name":"Ward gate east roof","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Ward gate east roof. Matt keeps the drum for the start. 3 steps, direct on the left lane, open."}
