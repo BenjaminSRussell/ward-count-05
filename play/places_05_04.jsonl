@@ -634,3 +634,6 @@
 {"n":634,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the pier, north roof. direct left open. 3 steps. The hydrant stays for the start."}
 {"n":635,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the hydrant at the pier. Nobody past the north roof. We start in 4 steps. Direct on the left lane, open."}
 {"n":636,"kind":"place","name":"the pier north roof","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"the pier north roof. Ivo keeps the hydrant for the start. 5 steps, direct on the left lane, open."}
+{"n":637,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the pier, north roof. direct left open. 6 steps. The hydrant stays for the start."}
+{"n":638,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the hydrant at the pier. Nobody past the north roof. We start in 7 steps. Direct on the left lane, open."}
+{"n":639,"kind":"place","name":"the pier north roof","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"the pier north roof. Bess keeps the hydrant for the start. 8 steps, direct on the left lane, open."}
