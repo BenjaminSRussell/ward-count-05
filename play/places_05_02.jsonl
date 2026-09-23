@@ -441,3 +441,6 @@
 {"n":441,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at South stair, east roof. direct left open. 8 steps. The plywood stays for the start."}
 {"n":442,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the plywood at South stair. Nobody past the east roof. We start in 2 steps. Direct on the left lane, open."}
 {"n":443,"kind":"place","name":"South stair east roof","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"South stair east roof. Bess keeps the plywood for the start. 3 steps, direct on the left lane, open."}
+{"n":444,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at South stair, east roof. direct left open. 4 steps. The plywood stays for the start."}
+{"n":445,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the plywood at the pier. Nobody past the east roof. We start in 5 steps. Direct on the left lane, open."}
+{"n":446,"kind":"place","name":"the pier east roof","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"the pier east roof. Matt keeps the plywood for the start. 6 steps, direct on the left lane, open."}
