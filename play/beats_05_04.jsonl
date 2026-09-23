@@ -575,3 +575,6 @@
 {"n":575,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the hydrant at Mall court. Nobody past the north roof. We start in 7 steps. Direct on the left lane, open."}
 {"n":576,"kind":"place","name":"Mall court north roof","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Mall court north roof. Ivo keeps the hydrant for the start. 8 steps, direct on the left lane, open."}
 {"n":577,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mall court, north roof. direct left open. 2 steps. The hydrant stays for the start."}
+{"n":578,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the hydrant at Mall court. Nobody past the north roof. We start in 3 steps. Direct on the left lane, open."}
+{"n":579,"kind":"place","name":"Mall court north roof","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Mall court north roof. Bess keeps the hydrant for the start. 4 steps, direct on the left lane, open."}
+{"n":580,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mall court, north roof. direct left open. 5 steps. The hydrant stays for the start."}
