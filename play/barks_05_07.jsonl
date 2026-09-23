@@ -117,3 +117,6 @@
 {"n":117,"kind":"place","name":"Mast yard south roof","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Mast yard south roof. Nia keeps the lamp for the start. 8 steps, direct on the left lane, open."}
 {"n":118,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mast yard, south roof. direct left open. 2 steps. The lamp stays for the start."}
 {"n":119,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the lamp at Mast yard. Nobody past the south roof. We start in 3 steps. Direct on the left lane, open."}
+{"n":120,"kind":"place","name":"Mast yard south roof","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Mast yard south roof. Ivo keeps the lamp for the start. 4 steps, direct on the left lane, open."}
+{"n":121,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mast yard, south roof. direct left open. 5 steps. The lamp stays for the start."}
+{"n":122,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the lamp at Mast yard. Nobody past the south roof. We start in 6 steps. Direct on the left lane, open."}
