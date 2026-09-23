@@ -247,3 +247,6 @@
 {"n":247,"kind":"place","name":"Last Light south stair","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Last Light south stair. Bess keeps the radio coil for the start. 5 steps, direct on the left lane, open."}
 {"n":248,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Last Light, south stair. direct left open. 6 steps. The radio coil stays for the start."}
 {"n":249,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the radio coil at South stair. Nobody past the south stair. We start in 7 steps. Direct on the left lane, open."}
+{"n":250,"kind":"place","name":"South stair south stair","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"South stair south stair. Matt keeps the radio coil for the start. 8 steps, direct on the left lane, open."}
+{"n":251,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at South stair, south stair. direct left open. 2 steps. The radio coil stays for the start."}
+{"n":252,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the radio coil at South stair. Nobody past the south stair. We start in 3 steps. Direct on the left lane, open."}
