@@ -140,3 +140,6 @@
 {"n":140,"kind":"place","name":"Switchyard west roof","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Switchyard west roof. Ivo keeps the badge door for the start. 8 steps, direct on the left lane, open."}
 {"n":141,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, west roof. direct left open. 2 steps. The badge door stays for the start."}
 {"n":142,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the badge door at Switchyard. Nobody past the west roof. We start in 3 steps. Direct on the left lane, open."}
+{"n":143,"kind":"place","name":"Switchyard west roof","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Switchyard west roof. Bess keeps the badge door for the start. 4 steps, direct on the left lane, open."}
+{"n":144,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, west roof. direct left open. 5 steps. The badge door stays for the start."}
+{"n":145,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the badge door at Drydock. Nobody past the west roof. We start in 6 steps. Direct on the left lane, open."}
