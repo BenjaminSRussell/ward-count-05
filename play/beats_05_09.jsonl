@@ -906,3 +906,6 @@
 {"n":906,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the drum at Ward gate. Nobody past the west slip. We start in 4 steps. Direct on the left lane, open."}
 {"n":907,"kind":"place","name":"Ward gate west slip","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Ward gate west slip. Bess keeps the drum for the start. 5 steps, direct on the left lane, open."}
 {"n":908,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Ward gate, west slip. direct left open. 6 steps. The drum stays for the start."}
+{"n":909,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the drum at Kessler alley. Nobody past the west slip. We start in 7 steps. Direct on the left lane, open."}
+{"n":910,"kind":"place","name":"Kessler alley west slip","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Kessler alley west slip. Matt keeps the drum for the start. 8 steps, direct on the left lane, open."}
+{"n":911,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Kessler alley, west slip. direct left open. 2 steps. The drum stays for the start."}
